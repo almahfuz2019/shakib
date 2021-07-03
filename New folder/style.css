@@ -1,0 +1,136 @@
+#full{
+
+
+}
+body{
+
+}
+#left{
+  width: 660px;
+  background-color:;
+  height:px;
+  float: right;
+
+
+  padding: px;
+
+
+
+}
+#left a{
+  font-size:22px;
+  color:black;
+  text-decoration: none;
+  text-align:center;
+  margin-left: 230px;
+
+
+}
+#left p{
+  font-size: 30px;
+  text-align: center;
+  width: 330px;
+  margin-left: 200px;
+
+  color: white;
+  background-color: black;
+
+}
+left p:hover{
+  color:black;
+}
+#left p b u{
+
+}
+#left a:hover{
+  background: none;
+  color:#ff0066;
+}
+img{
+  margin-left: 308px;
+}
+#left details summary{
+  font-size: 26px;
+  font-family:cursive;
+
+
+}
+#right{
+  width: 660px;
+
+  float: right;
+  height:px;
+  background-color: ;
+  position: fixed;
+
+
+
+
+}
+#left:hover{
+  background-color: ;
+
+}
+
+
+#bp{
+  font-size: 15px;
+  text-align: center;
+
+
+}
+#line{
+  height: 20px;
+  color: black;
+  font-size: 78px;
+  text-align: center;
+  float: right;
+}
+#line1{
+  height: 20px;
+  color: black;
+  font-size: 78px;
+  text-align: center;
+
+}
+#line2{
+  height: 20px;
+  color: black;
+  font-size: 78px;
+  text-align: center;
+  float:top;
+  float:right;
+  margin-right: 600px;
+}
+#book{
+  font-size: 45px;
+  text-align: center;
+  color: ED1568;
+
+
+}
+#logo{
+  font-size: 20px;
+  text-decoration:none;
+  color: black;
+  margin-right:px;
+  font-family: fantasy;
+  color: #ff0066;
+  text-align: center;
+
+
+}
+#apon{
+  font-size: 24px;
+  text-align: center;
+}
+#islam{
+  font-size: 32px;
+  text-align: center;
+}
+#address{
+  font-size: 15px;
+  text-align: center;
+
+
+}
